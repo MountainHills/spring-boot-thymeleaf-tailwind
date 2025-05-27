@@ -1,8 +1,8 @@
 # Spring Boot - Thymeleaf & TailwindCSS
 
-I wanted to use Thymeleaf because I wanted to a server-side rendered web application.
+I wanted to use Thymeleaf because I wanted to create a server-side rendered web application.
 
-While I'm familiar with using a frontend framework like React. I still want to explore
+While I'm familiar with using a frontend framework like React, I still want to explore
 a more traditional server rendered approach just because.
 
 I wanted to see how far I'll go with it and see how it works.
