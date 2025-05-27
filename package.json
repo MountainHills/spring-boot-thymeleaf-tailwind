@@ -4,8 +4,7 @@
   "description": "Tailwind integration for Thymeleaf application",
   "private": "true",
   "scripts": {
-    "build": "npx tailwindcss -i ./tailwind.css -o ./src/main/resources/static/css/main.css",
-    "watch": "npx tailwindcss -i ./tailwind.css -o ./src/main/resources/static/css/main.css --watch"
+    "build": "npx tailwindcss -i ./tailwind.css -o ./src/main/resources/static/css/main.css"
   },
   "author": "Anton Bondoc",
   "license": "ISC",
