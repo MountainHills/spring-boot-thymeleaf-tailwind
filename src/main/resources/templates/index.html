@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      th:href="@{/css/main.css}"
+      href="../static/css/main.css"
+    />
+    <title>Thymeleaf Document</title>
+  </head>
+  <body>
+    <h1 th:text="#{home.name}">Name</h1>
+    <h1>Hello World</h1>
+    <p th:text="#{home.description}">Description</p>
+    <p>This is a big problem</p>
+    <p>This is a new world</p>
+    <h1 class="text-center bg-slate-300 text-3xl flex">Hello World</h1>
+  </body>
+</html>
